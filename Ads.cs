@@ -8,7 +8,7 @@ namespace Algoritms
 {
     public static class Ads
     {
-        static void ShowAds()
+        public static void ShowAds()
         {
             Console.WriteLine("Посетите наш новый сайт с бесплатными играми free.games.for.a.fool.com");
             Thread.Sleep(1000);
